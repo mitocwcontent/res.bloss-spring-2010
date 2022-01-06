@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010/60622c64fedd5c89d80e8a47dd543d95_res-blosss10-th.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: The BLOSSOMS initiative, an open source world-wide learning initiative
+    for high school students and teachers.
+  credit: ''
+  image-alt: An artistic line drawing of four human profiles within a circle.
+resourcetype: Image
+title: res-blosss10-th.jpg
+uid: 60622c64-fedd-5c89-d80e-8a47dd543d95
+---
